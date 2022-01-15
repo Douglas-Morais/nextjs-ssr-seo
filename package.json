@@ -2,6 +2,7 @@
   "name": "nextjs-ssr-seo",
   "private": true,
   "scripts": {
+    "next": "next",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
