@@ -1,5 +1,11 @@
 {
   "name": "nextjs-ssr-seo",
+  "version": "0.0.0",
+  "author": {
+    "name": "Douglas Morais",
+    "email": "douglascarvalhomorais@hotmail.com",
+    "url": "https://www.linkedin.com/in/douglas-marques-de-morais-3b06a21b8/"
+  },
   "private": true,
   "scripts": {
     "next": "next",
